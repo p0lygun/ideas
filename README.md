@@ -1,4 +1,4 @@
-# ideas
+# Ideas
 Some ideas that i would love to bring to existence 
 #### List
 **Name**|**Description**|**Working On**|**Repository**
